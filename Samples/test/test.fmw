@@ -5,7 +5,7 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    D:\code\fme\install\fme.exe C:\Users\apurewal\AppData\Local\Temp\wb_publish_1495046423348_36948/test.fmw
+#    D:\code\fme\install\fme.exe C:\Users\apurewal\AppData\Local\Temp\wb_publish_1495046442436_36948/test.fmw
 #    
 #    
 #!   REDIRECT_TERMINATORS="NONE"
@@ -19,8 +19,8 @@
 #!   MARKDOWN_DESCRIPTION=""
 #!   PASSWORD=""
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   VIEW_POSITION="0 96.876"
-#!   FME_DOCUMENT_GUID="5eeb4263-8494-43d4-a727-42bb1f6ca32f"
+#!   VIEW_POSITION="0 93.7509"
+#!   FME_DOCUMENT_GUID="d47b864b-974b-4bf8-9e82-59d3bd856567"
 #!   USAGE=""
 #!   FME_REPROJECTION_ENGINE="FME"
 #!   DOC_EXTENTS="1e-06 1e-05"
@@ -29,13 +29,13 @@
 #!   ATTR_TYPE_ENCODING="SDF"
 #!   HISTORY=""
 #!   BEGIN_PYTHON=""
-#!   FME_DOCUMENT_PRIORGUID="ad5db52c-b44b-4fc4-bbdc-ac71ef3422e2,24374c89-e2f6-40fa-8a78-5302537c33e3"
+#!   FME_DOCUMENT_PRIORGUID="ad5db52c-b44b-4fc4-bbdc-ac71ef3422e2,24374c89-e2f6-40fa-8a78-5302537c33e3,0e766706-6f1a-4de7-8533-06e1d2a080ba"
 #!   SHOW_ANNOTATIONS="true"
 #!   SOURCE="NONE"
-#!   TITLE="Test Workspace 1"
+#!   TITLE="Test Workspace 2"
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   IGNORE_READER_FAILURE="No"
-#!   LAST_SAVE_DATE="2017-05-17T11:40:23"
+#!   LAST_SAVE_DATE="2017-05-17T11:40:42"
 #!   DESTINATION="NONE"
 #!   MARKDOWN_USAGE=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
@@ -192,7 +192,7 @@ NULL_DEST_DATASET null
 
 #! END_HEADER
 
-LOG_FILENAME "$(FME_MF_DIR)test1.log"
+LOG_FILENAME "$(FME_MF_DIR)test2.log"
 LOG_APPEND NO
 LOG_MAX_FEATURES 200
 LOG_MAX_RECORDED_FEATURES 200
@@ -200,7 +200,7 @@ FME_REPROJECTION_ENGINE FME
 FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
 FME_GEOMETRY_HANDLING Enhanced
 FME_STROKE_MAX_DEVIATION 0
-MAPPING_FILE_ID Test<space>Workspace<space>1
+MAPPING_FILE_ID Test<space>Workspace<space>2
 LOG_FILTER_MASK -1
 # -------------------------------------------------------------------------
 
